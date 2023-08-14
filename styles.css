@@ -1,0 +1,35 @@
+#body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#header {
+    background-color: lightblue;
+    padding: 16px;
+}
+#navbar{
+    background-color: lightcoral;
+    padding: 8px;
+    padding-left: 1000px;
+}
+#main-section{
+    background-color: lightgray;
+    padding: 60px;
+
+}
+#section{
+    background-color: lightgreen;
+    padding: 16px;
+}
+#article{
+    background-color: lightpink;
+    padding: 16px;
+}
+#article1{
+    background-color: lightgoldenrodyellow;
+    padding: 16px;
+}
+#footer{
+    background-color: aqua;
+    padding: 10px;
+
+}
